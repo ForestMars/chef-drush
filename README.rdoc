@@ -58,5 +58,6 @@ When install_method is git, the format is a git reference commit/tag/branch (eg.
 = USAGE:
 
 Simply include the `drush` or `drush::make` recipe wherever you would
-like drush installed. You may alter the `install_method` and `version`
+like drush installed.
+You may alter the `install_method` and `version`
 attributes appropriately.
